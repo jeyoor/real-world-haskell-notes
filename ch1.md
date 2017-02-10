@@ -1,4 +1,4 @@
-Make prompt smaller
+--Make prompt smaller
 Prelude> :set prompt "ghci >"
 
 
